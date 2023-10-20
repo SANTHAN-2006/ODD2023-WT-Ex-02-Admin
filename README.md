@@ -14,4 +14,5 @@ Setting e-mail for all users
 Setting the first name and last name for all users
 
 # Output:
-<img width="960" alt="django assignment" src="https://github.com/SANTHAN-2006/ODD2023-WT-Ex-02-Admin/assets/80164014/d93dc8c6-0ad8-473f-a46e-508641dd877a">
+<img width="958" alt="Screenshot 2023-10-20 112431" src="https://github.com/SANTHAN-2006/ODD2023-WT-Ex-02-Admin/assets/80164014/ee0fa666-bcd4-4e89-8c91-9e9a13070af7">
+
